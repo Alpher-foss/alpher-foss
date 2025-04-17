@@ -45,8 +45,9 @@
 
 <h2 style="font-family: 'Poppins', sans-serif; color: #00796b;">Get in Touch 📫</h2>
 
-<p style="font-family: 'Roboto', sans-serif;">Feel free to reach out to me via <a href="mailto:your-email@example.com">email</a></p>
+# Error
 
+Currently not found.
 ---
 Ya , that's it .
 
